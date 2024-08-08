@@ -1,0 +1,11 @@
+.box {
+	display: flex;
+	height: 200px;
+	width: 750px;
+	margin: 0 auto;
+	margin-top: 150px;
+	padding: 15px;
+	background-color: #fff;
+	align-items: center;
+	justify-content: space-evenly;
+}
